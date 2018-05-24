@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Levin</string>
+    <string name="options">Options</string>
+    <string name="start_game">Start Game</string>
+    <string name="exit">Exit</string>
+    <string name="levin">leviN</string>
+    <string name="deepches">DeepChess</string>
+    <string name="basic">Classic</string>
+    <string name="choose">Chooce Opponent</string>
+    <string name="choose_color">Choose color:</string>
+    <string name="WHITE">WHITE</string>
+    <string name="black">BLACK</string>
+    <string name="white">WHITE</string>
+    <string name="submit">Submit</string>
+</resources>
